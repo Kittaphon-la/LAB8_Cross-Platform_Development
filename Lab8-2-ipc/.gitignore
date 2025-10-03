@@ -1,0 +1,14 @@
+
+node_modules/
+dist/
+out/
+release/
+*.log
+.DS_Store
+*.map
+*.asar
+*.zip
+*.dmg
+*.exe
+coverage/
+.env
